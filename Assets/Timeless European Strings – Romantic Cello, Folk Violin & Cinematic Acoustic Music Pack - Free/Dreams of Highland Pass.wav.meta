@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: 1ed50aba4a6a20e41a940dec8f466ee0
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 6
+  defaultSettings:
+    loadType: 2
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  preloadAudioData: 0
+  loadInBackground: 1
+  ambisonic: 0
+  3D: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 392806
+  packageName: "Timeless European Strings \u2013 Cello, Violin & Folk Acoustic Music
+    Pack-free"
+  packageVersion: 1.0
+  assetPath: "Assets/Timeless European Strings \u2013 Romantic Cello, Folk Violin
+    & Cinematic Acoustic Music Pack - Free/Dreams of Highland Pass.wav"
+  uploadId: 952056
